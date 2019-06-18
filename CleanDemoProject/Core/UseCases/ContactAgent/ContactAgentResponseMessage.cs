@@ -1,7 +1,7 @@
 ﻿using FluentValidation;
 using FluentValidation.Results;
 
-namespace CleanDemoProject.Core.UseCases.Agents
+namespace CleanDemoProject.Core.UseCases.ContactAgent
 {
     public class ContactAgentResponseMessage
     {

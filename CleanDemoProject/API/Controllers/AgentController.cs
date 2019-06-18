@@ -1,6 +1,6 @@
 ﻿using CleanDemoProject.API.Presenter;
 using CleanDemoProject.API.Views;
-using CleanDemoProject.Core.UseCases.Agents;
+using CleanDemoProject.Core.UseCases.ContactAgent;
 using System;
 using System.Collections.Generic;
 using System.Text;

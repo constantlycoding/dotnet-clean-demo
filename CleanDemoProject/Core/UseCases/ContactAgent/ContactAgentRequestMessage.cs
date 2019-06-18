@@ -1,6 +1,6 @@
 ﻿using MediatR;
 
-namespace CleanDemoProject.Core.UseCases.Agents
+namespace CleanDemoProject.Core.UseCases.ContactAgent
 {
     public class ContactAgentRequestMessage : IRequest<ContactAgentResponseMessage>
     {

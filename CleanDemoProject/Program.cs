@@ -1,7 +1,7 @@
 ﻿using CleanDemoProject.API.Controllers;
 using CleanDemoProject.API.Presenter;
 using CleanDemoProject.Core.Entities;
-using CleanDemoProject.Core.UseCases.Agents;
+using CleanDemoProject.Core.UseCases.ContactAgent;
 using CleanDemoProject.Infrastructure.Gateways;
 using System;
 

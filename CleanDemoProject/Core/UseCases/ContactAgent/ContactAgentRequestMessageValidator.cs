@@ -1,6 +1,6 @@
 ﻿using FluentValidation;
 
-namespace CleanDemoProject.Core.UseCases.Agents
+namespace CleanDemoProject.Core.UseCases.ContactAgent
 {
     public class ContactAgentRequestMessageValidator : AbstractValidator<ContactAgentRequestMessage>
     {

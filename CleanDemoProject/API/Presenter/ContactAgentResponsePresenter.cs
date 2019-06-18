@@ -1,5 +1,5 @@
 ﻿using CleanDemoProject.API.Models;
-using CleanDemoProject.Core.UseCases.Agents;
+using CleanDemoProject.Core.UseCases.ContactAgent;
 using System.Text;
 
 namespace CleanDemoProject.API.Presenter

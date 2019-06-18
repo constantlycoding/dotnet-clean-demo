@@ -5,7 +5,7 @@ using System;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace CleanDemoProject.Core.UseCases.Agents
+namespace CleanDemoProject.Core.UseCases.ContactAgent
 {
     public class ContactAgentInteractor : IRequestHandler<ContactAgentRequestMessage, ContactAgentResponseMessage>
     {
